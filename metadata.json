@@ -1,0 +1,7 @@
+{
+  "name": "Professor Gong's AI Grammar Aid",
+  "description": "A comprehensive English grammar learning assistant featuring bilingual (English/Chinese) AI chat, real-time voice conversations, and expert grammar analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
